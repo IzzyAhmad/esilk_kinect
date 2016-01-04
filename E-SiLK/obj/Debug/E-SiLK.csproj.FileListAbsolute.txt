@@ -1,0 +1,118 @@
+C:\Users\Izzy\Documents\Visual Studio 2013\Projects\E-SiLK\E-SiLK\bin\Debug\E-SiLK.exe.config
+C:\Users\Izzy\Documents\Visual Studio 2013\Projects\E-SiLK\E-SiLK\obj\Debug\E-SiLK.exe
+C:\Users\Izzy\Documents\Visual Studio 2013\Projects\E-SiLK\E-SiLK\obj\Debug\E-SiLK.pdb
+C:\Users\Izzy\Documents\Visual Studio 2013\Projects\E-SiLK\E-SiLK\bin\Debug\E-SiLK.exe
+C:\Users\Izzy\Documents\Visual Studio 2013\Projects\E-SiLK\E-SiLK\bin\Debug\E-SiLK.pdb
+C:\Users\Izzy\Documents\Visual Studio 2013\Projects\E-SiLK\E-SiLK\bin\Debug\Microsoft.Kinect.Toolkit.Controls.dll
+C:\Users\Izzy\Documents\Visual Studio 2013\Projects\E-SiLK\E-SiLK\bin\Debug\Microsoft.Kinect.Toolkit.dll
+C:\Users\Izzy\Documents\Visual Studio 2013\Projects\E-SiLK\E-SiLK\bin\Debug\Microsoft.Kinect.Toolkit.Interaction.dll
+C:\Users\Izzy\Documents\Visual Studio 2013\Projects\E-SiLK\E-SiLK\obj\Debug\E-SiLK.csprojResolveAssemblyReference.cache
+C:\Users\Izzy\Documents\Visual Studio 2013\Projects\E-SiLK\E-SiLK\obj\Debug\AlphaA.baml
+C:\Users\Izzy\Documents\Visual Studio 2013\Projects\E-SiLK\E-SiLK\obj\Debug\Alphabet.baml
+C:\Users\Izzy\Documents\Visual Studio 2013\Projects\E-SiLK\E-SiLK\obj\Debug\Learn.baml
+C:\Users\Izzy\Documents\Visual Studio 2013\Projects\E-SiLK\E-SiLK\obj\Debug\LevelOne.baml
+C:\Users\Izzy\Documents\Visual Studio 2013\Projects\E-SiLK\E-SiLK\obj\Debug\MainMenu.baml
+C:\Users\Izzy\Documents\Visual Studio 2013\Projects\E-SiLK\E-SiLK\obj\Debug\MainWindow.baml
+C:\Users\Izzy\Documents\Visual Studio 2013\Projects\E-SiLK\E-SiLK\obj\Debug\Market.baml
+C:\Users\Izzy\Documents\Visual Studio 2013\Projects\E-SiLK\E-SiLK\obj\Debug\SelectLevel.baml
+C:\Users\Izzy\Documents\Visual Studio 2013\Projects\E-SiLK\E-SiLK\obj\Debug\AlphaA.g.cs
+C:\Users\Izzy\Documents\Visual Studio 2013\Projects\E-SiLK\E-SiLK\obj\Debug\Alphabet.g.cs
+C:\Users\Izzy\Documents\Visual Studio 2013\Projects\E-SiLK\E-SiLK\obj\Debug\Learn.g.cs
+C:\Users\Izzy\Documents\Visual Studio 2013\Projects\E-SiLK\E-SiLK\obj\Debug\LevelOne.g.cs
+C:\Users\Izzy\Documents\Visual Studio 2013\Projects\E-SiLK\E-SiLK\obj\Debug\MainMenu.g.cs
+C:\Users\Izzy\Documents\Visual Studio 2013\Projects\E-SiLK\E-SiLK\obj\Debug\MainWindow.g.cs
+C:\Users\Izzy\Documents\Visual Studio 2013\Projects\E-SiLK\E-SiLK\obj\Debug\Market.g.cs
+C:\Users\Izzy\Documents\Visual Studio 2013\Projects\E-SiLK\E-SiLK\obj\Debug\SelectLevel.g.cs
+C:\Users\Izzy\Documents\Visual Studio 2013\Projects\E-SiLK\E-SiLK\obj\Debug\App.g.cs
+C:\Users\Izzy\Documents\Visual Studio 2013\Projects\E-SiLK\E-SiLK\obj\Debug\E-SiLK_Content.g.cs
+C:\Users\Izzy\Documents\Visual Studio 2013\Projects\E-SiLK\E-SiLK\obj\Debug\E-SiLK_MarkupCompile.cache
+C:\Users\Izzy\Documents\Visual Studio 2013\Projects\E-SiLK\E-SiLK\obj\Debug\E-SiLK.g.resources
+C:\Users\Izzy\Documents\Visual Studio 2013\Projects\E-SiLK\E-SiLK\obj\Debug\E_SiLK.Properties.Resources.resources
+C:\Users\Izzy\Documents\Visual Studio 2013\Projects\E-SiLK\E-SiLK\obj\Debug\E-SiLK.csproj.GenerateResource.Cache
+C:\Users\Izzy\Documents\Visual Studio 2013\Projects\E-SiLK\E-SiLK\obj\Debug\Contact.baml
+C:\Users\Izzy\Documents\Visual Studio 2013\Projects\E-SiLK\E-SiLK\obj\Debug\Contact.g.cs
+C:\Users\Izzy\Documents\Visual Studio 2013\Projects\E-SiLK\E-SiLK\obj\Debug\GameOver.baml
+C:\Users\Izzy\Documents\Visual Studio 2013\Projects\E-SiLK\E-SiLK\obj\Debug\GameOver.g.cs
+C:\Users\Izzy\Documents\Visual Studio 2013\Projects\E-SiLK\E-SiLK\obj\Debug\About.baml
+C:\Users\Izzy\Documents\Visual Studio 2013\Projects\E-SiLK\E-SiLK\obj\Debug\About.g.cs
+C:\Users\Izzy\Documents\Visual Studio 2013\Projects\E-SiLK\E-SiLK\obj\Debug\LeaderBoard.baml
+C:\Users\Izzy\Documents\Visual Studio 2013\Projects\E-SiLK\E-SiLK\obj\Debug\LeaderBoard.g.cs
+E:\Personal\Study\Assingment\PSM\E-SiLK\E-SiLK\bin\Debug\E-SiLK.exe.config
+E:\Personal\Study\Assingment\PSM\E-SiLK\E-SiLK\obj\Debug\E-SiLK.exe
+E:\Personal\Study\Assingment\PSM\E-SiLK\E-SiLK\obj\Debug\E-SiLK.pdb
+E:\Personal\Study\Assingment\PSM\E-SiLK\E-SiLK\obj\Debug\E-SiLK.csprojResolveAssemblyReference.cache
+E:\Personal\Study\Assingment\PSM\E-SiLK\E-SiLK\obj\Debug\About.baml
+E:\Personal\Study\Assingment\PSM\E-SiLK\E-SiLK\obj\Debug\AlphaA.baml
+E:\Personal\Study\Assingment\PSM\E-SiLK\E-SiLK\obj\Debug\Alphabet.baml
+E:\Personal\Study\Assingment\PSM\E-SiLK\E-SiLK\obj\Debug\Contact.baml
+E:\Personal\Study\Assingment\PSM\E-SiLK\E-SiLK\obj\Debug\GameOver.baml
+E:\Personal\Study\Assingment\PSM\E-SiLK\E-SiLK\obj\Debug\LeaderBoard.baml
+E:\Personal\Study\Assingment\PSM\E-SiLK\E-SiLK\obj\Debug\Learn.baml
+E:\Personal\Study\Assingment\PSM\E-SiLK\E-SiLK\obj\Debug\LevelOne.baml
+E:\Personal\Study\Assingment\PSM\E-SiLK\E-SiLK\obj\Debug\MainMenu.baml
+E:\Personal\Study\Assingment\PSM\E-SiLK\E-SiLK\obj\Debug\MainWindow.baml
+E:\Personal\Study\Assingment\PSM\E-SiLK\E-SiLK\obj\Debug\Market.baml
+E:\Personal\Study\Assingment\PSM\E-SiLK\E-SiLK\obj\Debug\SelectLevel.baml
+E:\Personal\Study\Assingment\PSM\E-SiLK\E-SiLK\obj\Debug\About.g.cs
+E:\Personal\Study\Assingment\PSM\E-SiLK\E-SiLK\obj\Debug\AlphaA.g.cs
+E:\Personal\Study\Assingment\PSM\E-SiLK\E-SiLK\obj\Debug\Alphabet.g.cs
+E:\Personal\Study\Assingment\PSM\E-SiLK\E-SiLK\obj\Debug\Contact.g.cs
+E:\Personal\Study\Assingment\PSM\E-SiLK\E-SiLK\obj\Debug\GameOver.g.cs
+E:\Personal\Study\Assingment\PSM\E-SiLK\E-SiLK\obj\Debug\LeaderBoard.g.cs
+E:\Personal\Study\Assingment\PSM\E-SiLK\E-SiLK\obj\Debug\Learn.g.cs
+E:\Personal\Study\Assingment\PSM\E-SiLK\E-SiLK\obj\Debug\LevelOne.g.cs
+E:\Personal\Study\Assingment\PSM\E-SiLK\E-SiLK\obj\Debug\MainMenu.g.cs
+E:\Personal\Study\Assingment\PSM\E-SiLK\E-SiLK\obj\Debug\MainWindow.g.cs
+E:\Personal\Study\Assingment\PSM\E-SiLK\E-SiLK\obj\Debug\Market.g.cs
+E:\Personal\Study\Assingment\PSM\E-SiLK\E-SiLK\obj\Debug\SelectLevel.g.cs
+E:\Personal\Study\Assingment\PSM\E-SiLK\E-SiLK\obj\Debug\App.g.cs
+E:\Personal\Study\Assingment\PSM\E-SiLK\E-SiLK\obj\Debug\E-SiLK_Content.g.cs
+E:\Personal\Study\Assingment\PSM\E-SiLK\E-SiLK\obj\Debug\E-SiLK_MarkupCompile.cache
+E:\Personal\Study\Assingment\PSM\E-SiLK\E-SiLK\obj\Debug\E-SiLK.g.resources
+E:\Personal\Study\Assingment\PSM\E-SiLK\E-SiLK\obj\Debug\E_SiLK.Properties.Resources.resources
+E:\Personal\Study\Assingment\PSM\E-SiLK\E-SiLK\obj\Debug\E-SiLK.csproj.GenerateResource.Cache
+E:\Personal\Study\Assingment\PSM\E-SiLK\E-SiLK\bin\Debug\E-SiLK.exe
+E:\Personal\Study\Assingment\PSM\E-SiLK\E-SiLK\bin\Debug\E-SiLK.pdb
+F:\Personal\Study\Assingment\PSM\E-SiLK\E-SiLK\bin\Debug\E-SiLK.exe.config
+F:\Personal\Study\Assingment\PSM\E-SiLK\E-SiLK\obj\Debug\E-SiLK.exe
+F:\Personal\Study\Assingment\PSM\E-SiLK\E-SiLK\obj\Debug\E-SiLK.pdb
+F:\Personal\Study\Assingment\PSM\E-SiLK\E-SiLK\bin\Debug\E-SiLK.exe
+F:\Personal\Study\Assingment\PSM\E-SiLK\E-SiLK\bin\Debug\E-SiLK.pdb
+F:\Personal\Study\Assingment\PSM\E-SiLK\E-SiLK\bin\Debug\Microsoft.Kinect.dll
+F:\Personal\Study\Assingment\PSM\E-SiLK\E-SiLK\bin\Debug\Microsoft.Kinect.xml
+F:\Personal\Study\Assingment\PSM\E-SiLK\E-SiLK\obj\Debug\E-SiLK.csprojResolveAssemblyReference.cache
+F:\Personal\Study\Assingment\PSM\E-SiLK\E-SiLK\obj\Debug\About.baml
+F:\Personal\Study\Assingment\PSM\E-SiLK\E-SiLK\obj\Debug\AlphaA.baml
+F:\Personal\Study\Assingment\PSM\E-SiLK\E-SiLK\obj\Debug\Alphabet.baml
+F:\Personal\Study\Assingment\PSM\E-SiLK\E-SiLK\obj\Debug\Contact.baml
+F:\Personal\Study\Assingment\PSM\E-SiLK\E-SiLK\obj\Debug\GameOver.baml
+F:\Personal\Study\Assingment\PSM\E-SiLK\E-SiLK\obj\Debug\LeaderBoard.baml
+F:\Personal\Study\Assingment\PSM\E-SiLK\E-SiLK\obj\Debug\Learn.baml
+F:\Personal\Study\Assingment\PSM\E-SiLK\E-SiLK\obj\Debug\LevelOne.baml
+F:\Personal\Study\Assingment\PSM\E-SiLK\E-SiLK\obj\Debug\MainMenu.baml
+F:\Personal\Study\Assingment\PSM\E-SiLK\E-SiLK\obj\Debug\MainWindow.baml
+F:\Personal\Study\Assingment\PSM\E-SiLK\E-SiLK\obj\Debug\Market.baml
+F:\Personal\Study\Assingment\PSM\E-SiLK\E-SiLK\obj\Debug\SelectLevel.baml
+F:\Personal\Study\Assingment\PSM\E-SiLK\E-SiLK\obj\Debug\About.g.cs
+F:\Personal\Study\Assingment\PSM\E-SiLK\E-SiLK\obj\Debug\AlphaA.g.cs
+F:\Personal\Study\Assingment\PSM\E-SiLK\E-SiLK\obj\Debug\Alphabet.g.cs
+F:\Personal\Study\Assingment\PSM\E-SiLK\E-SiLK\obj\Debug\Contact.g.cs
+F:\Personal\Study\Assingment\PSM\E-SiLK\E-SiLK\obj\Debug\GameOver.g.cs
+F:\Personal\Study\Assingment\PSM\E-SiLK\E-SiLK\obj\Debug\LeaderBoard.g.cs
+F:\Personal\Study\Assingment\PSM\E-SiLK\E-SiLK\obj\Debug\Learn.g.cs
+F:\Personal\Study\Assingment\PSM\E-SiLK\E-SiLK\obj\Debug\LevelOne.g.cs
+F:\Personal\Study\Assingment\PSM\E-SiLK\E-SiLK\obj\Debug\MainMenu.g.cs
+F:\Personal\Study\Assingment\PSM\E-SiLK\E-SiLK\obj\Debug\MainWindow.g.cs
+F:\Personal\Study\Assingment\PSM\E-SiLK\E-SiLK\obj\Debug\Market.g.cs
+F:\Personal\Study\Assingment\PSM\E-SiLK\E-SiLK\obj\Debug\SelectLevel.g.cs
+F:\Personal\Study\Assingment\PSM\E-SiLK\E-SiLK\obj\Debug\App.g.cs
+F:\Personal\Study\Assingment\PSM\E-SiLK\E-SiLK\obj\Debug\E-SiLK_Content.g.cs
+F:\Personal\Study\Assingment\PSM\E-SiLK\E-SiLK\obj\Debug\E-SiLK_MarkupCompile.cache
+F:\Personal\Study\Assingment\PSM\E-SiLK\E-SiLK\obj\Debug\E-SiLK.g.resources
+F:\Personal\Study\Assingment\PSM\E-SiLK\E-SiLK\obj\Debug\E_SiLK.Properties.Resources.resources
+F:\Personal\Study\Assingment\PSM\E-SiLK\E-SiLK\obj\Debug\E-SiLK.csproj.GenerateResource.Cache
+F:\Personal\Study\Assingment\PSM\E-SiLK\E-SiLK\bin\Debug\E-SiLK.exe.manifest
+F:\Personal\Study\Assingment\PSM\E-SiLK\E-SiLK\bin\Debug\E-SiLK.application
+F:\Personal\Study\Assingment\PSM\E-SiLK\E-SiLK\obj\Debug\E-SiLK.TrustInfo.xml
+F:\Personal\Study\Assingment\PSM\E-SiLK\E-SiLK\obj\Debug\E-SiLK.exe.manifest
+F:\Personal\Study\Assingment\PSM\E-SiLK\E-SiLK\obj\Debug\E-SiLK.application

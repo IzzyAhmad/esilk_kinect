@@ -1,0 +1,158 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
+  <asmv1:assemblyIdentity name="E-SiLK.exe" version="1.0.0.0" publicKeyToken="d5542f9704d49606" language="neutral" processorArchitecture="msil" type="win32" />
+  <description asmv2:iconFile="button (1).ico" xmlns="urn:schemas-microsoft-com:asm.v1" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="E-SiLK" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+    <commandLine file="E-SiLK.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet version="1" class="System.Security.NamedPermissionSet" Name="LocalIntranet" Description="Default rights given to applications on the local intranet" Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!-- UAC Manifest Options
+             If you want to change the Windows User Account Control level replace the 
+             requestedExecutionLevel node with one of the following.
+
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+            Specifying requestedExecutionLevel element will disable file and registry virtualization. 
+            Remove this element if your application requires this virtualization for backwards
+            compatibility.
+        -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="5" minorVersion="1" buildNumber="2600" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="4.0.30319.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="E-SiLK.exe" size="2002376">
+      <assemblyIdentity name="E-SiLK" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>WzKAPEpgGYNig+XROvPmvgVRntfiyxCoZDQ5NH4171U=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Microsoft.Kinect.dll" size="173056">
+      <assemblyIdentity name="Microsoft.Kinect" version="1.8.0.0" publicKeyToken="31BF3856AD364E35" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>sTNbBT9HDF9w++RQJyE4uAbSULGYqyETizV0n1EB2dg=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Microsoft.Kinect.Toolkit.dll" size="68776">
+      <assemblyIdentity name="Microsoft.Kinect.Toolkit" version="1.8.0.0" publicKeyToken="31BF3856AD364E35" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>WGtz7l5SjzWs5p7+q56HiIrIUqjD9oI7Mcs2PA/nCxA=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Microsoft.Kinect.Toolkit.Controls.dll" size="146088">
+      <assemblyIdentity name="Microsoft.Kinect.Toolkit.Controls" version="1.8.0.0" publicKeyToken="31BF3856AD364E35" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>rlBq09VbTeQWvuZ13BcOmDD0CybJIEc8zfYVvAizHJ0=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Microsoft.Kinect.Toolkit.Interaction.dll" size="41128">
+      <assemblyIdentity name="Microsoft.Kinect.Toolkit.Interaction" version="1.8.0.0" publicKeyToken="31BF3856AD364E35" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>qRScXSx2tiR7bsaAaFPIbR9+UhaWU9NISDQMq+AP3hQ=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <file name="button (1).ico" size="99678">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>RkH2AZ+M6H885r3IW9zyj0NntC4mGBswgGSFCHjF77U=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="E-SiLK.exe.config" size="187">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>xm4bo26HQ0LNVwz1vdPYtzhkpMnp2AI5i+f0b+OahTI=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Images\Learn\Alphabet\Adobe Photoshop CS3.exe" size="50841162">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>tjRCeVdy1wMtmrOxeh9zkyEny8ievSwJPy0TUNBk2ys=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Sound\bg.wav" size="20979790">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>SmffBCFq+37Uz/ZipG5WbgLqWIsdH/p/9HTH77T1uRk=</dsig:DigestValue>
+    </hash>
+  </file>
+  <compatibility xmlns="urn:schemas-microsoft-com:compatibility.v1">
+    <application>
+      <!-- A list of the Windows versions that this application has been tested on and is
+           is designed to work with. Uncomment the appropriate elements and Windows will 
+           automatically selected the most compatible environment. -->
+      <!-- Windows Vista -->
+      <!--<supportedOS Id="{e2011457-1546-43c5-a5fe-008deee3d3f0}" />-->
+      <!-- Windows 7 -->
+      <!--<supportedOS Id="{35138b9a-5d96-4fbd-8e2d-a2440225f93a}" />-->
+      <!-- Windows 8 -->
+      <!--<supportedOS Id="{4a2f28e3-53b9-4441-ba9c-d69d4a4a6e38}" />-->
+      <!-- Windows 8.1 -->
+      <!--<supportedOS Id="{1f676c76-80e1-4239-95bb-83d0f6d0da78}" />-->
+      <!-- Windows 10 -->
+      <!--<supportedOS Id="{8e0f7a12-bfb3-4fe8-b9a5-48fd50a15a9a}" />-->
+    </application>
+  </compatibility>
+<publisherIdentity name="CN=IZZYAHMAD-PC\Izzy" issuerKeyHash="da5eeb5b4fb319fdf6aa3ee8d1e223cd4f9171f6" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>02zfwXsZiifpVDzJnQhFdQR08FadZgV4u5Iasqx+0Oo=</DigestValue></Reference></SignedInfo><SignatureValue>1RmQLR0EHgXyTai49CvLojHqApth7e6UUjFK2SShcJ/mwP9FSpurVSSu6K4JEGBYbxT0DWvELg07/pZPRE+5ocGLKVSMyR668JeQ87FJnvfOBXguZa/582lGqNMOf7mNOlP4c9c8n3v8bZ5xAd7XzyarMeIal4MgPMn9mcYMqV4=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>4OqH7XEkz7L+SWfBoK/MGZ/tgLK1ZELK/GwPTwWB7hqK4n170sKqDgyLA3GQf/Bq1qrTyvnIoWdq9xQWh75r3inkd88UuTaEJ4MD7EEoOER1tXov7YtvN6UOh9uPdn9alD8Xc061+3f+UEeAeS3DBamL/2U/c6t4AYPBz/ljY/E=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="ead07eacb21a92bb7805669d56f074047545089dc93c54e9278a197bc1df6cd3" Description="" Url=""><as:assemblyIdentity name="E-SiLK.exe" version="1.0.0.0" publicKeyToken="d5542f9704d49606" language="neutral" processorArchitecture="msil" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=IZZYAHMAD-PC\Izzy</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>jMUwRQw8bUsqOkd8YQNK9wYjeZKmuROTRcXA1nKV6YE=</DigestValue></Reference></SignedInfo><SignatureValue>vkTPGtqz3ZNweqDawc22YbLEHs/SdGWheKSUbhlTmG71XrENmD+L+JuM1/rluG1PL7UDu/M4y9FvsVg7Rt7bi2vxkzXY+gNGZH63wSDimbdz5Qkje1ufYDsdZZoZ2MPF1Oqhfk5Vyw/JFX9h6msy4i08B+gy6yh3desB6BLNaTw=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>4OqH7XEkz7L+SWfBoK/MGZ/tgLK1ZELK/GwPTwWB7hqK4n170sKqDgyLA3GQf/Bq1qrTyvnIoWdq9xQWh75r3inkd88UuTaEJ4MD7EEoOER1tXov7YtvN6UOh9uPdn9alD8Xc061+3f+UEeAeS3DBamL/2U/c6t4AYPBz/ljY/E=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIB3TCCAUagAwIBAgIQe160bxi3IIdHBrKdXaAP1TANBgkqhkiG9w0BAQsFADAtMSswKQYDVQQDHiIASQBaAFoAWQBBAEgATQBBAEQALQBQAEMAXABJAHoAegB5MB4XDTE1MDgyMDA3MzcwMFoXDTE2MDgxOTEzMzcwMFowLTErMCkGA1UEAx4iAEkAWgBaAFkAQQBIAE0AQQBEAC0AUABDAFwASQB6AHoAeTCBnzANBgkqhkiG9w0BAQEFAAOBjQAwgYkCgYEA4OqH7XEkz7L+SWfBoK/MGZ/tgLK1ZELK/GwPTwWB7hqK4n170sKqDgyLA3GQf/Bq1qrTyvnIoWdq9xQWh75r3inkd88UuTaEJ4MD7EEoOER1tXov7YtvN6UOh9uPdn9alD8Xc061+3f+UEeAeS3DBamL/2U/c6t4AYPBz/ljY/ECAwEAATANBgkqhkiG9w0BAQsFAAOBgQBxKTpN88jCawNWz5XIHSq39X9zV03LvsWxCRbWeUTDfgmuTj3I2IObPCt7ec/Oaghv0MIpXYfVQZKLuSU31xxUYgbf3hbJZdLdi9Rkoa/7Y+DPshO+L6UFTY33ascotHQ42Nz0tjbjiUYy6WFuPgALSn7CCSeaoDsdmD2RESRYug==</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>

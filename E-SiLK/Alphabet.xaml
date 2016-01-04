@@ -1,0 +1,166 @@
+﻿<Window x:Class="E_SiLK.Alphabet"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:k="http://schemas.microsoft.com/kinect/2013"
+        Title="Alphabet" Height="768" Width="1024" WindowStartupLocation="CenterScreen">
+    <Grid>
+
+        <!--Background-->
+        <Grid.Background>
+            <ImageBrush ImageSource="Images/Background/road.png"/>
+        </Grid.Background>
+
+        <!--Kinect Setup-->
+        <Grid Margin="0,0,0,602">
+            <k:KinectSensorChooserUI HorizontalAlignment="Center" VerticalAlignment="Top" Name="sensorChooserUi" />
+            <k:KinectUserViewer VerticalAlignment="Top" HorizontalAlignment="Center" k:KinectRegion.KinectRegion="{Binding ElementName=kinectRegion}" Height="100"  UserColoringMode="Manual" />
+        </Grid>
+
+
+
+        <!--Interaction Canvas-->
+        <k:KinectRegion Name="kinectRegion" Margin="0,67,0,-67">
+
+            <Grid>
+                <k:KinectTileButton Height="Auto" Margin="0,0,917,649" Width="Auto" Click="Back">
+                    <k:KinectTileButton.Background>
+                    <ImageBrush ImageSource="Images/Navigation/back.png"></ImageBrush>
+                </k:KinectTileButton.Background>
+                </k:KinectTileButton>
+
+                <k:KinectTileButton Height="Auto" Margin="76,59,822,582" Width="Auto" Click="KinectTileButton_Click_1" >
+                    <k:KinectTileButton.Background>
+                        <ImageBrush ImageSource="Images/Learn/Alphabet/A.png"></ImageBrush>
+                    </k:KinectTileButton.Background>
+                </k:KinectTileButton>
+                <k:KinectTileButton Height="Auto" Margin="219,59,678,582" Width="Auto" >
+                    <k:KinectTileButton.Background>
+                        <ImageBrush ImageSource="Images/Learn/Alphabet/B.png"/>
+                    </k:KinectTileButton.Background>
+                </k:KinectTileButton>
+                <k:KinectTileButton Height="Auto" Margin="364,59,532,582" Width="Auto">
+                    <k:KinectTileButton.Background>
+                        <ImageBrush ImageSource="Images/Learn/Alphabet/C.png"/>
+                    </k:KinectTileButton.Background>
+                </k:KinectTileButton>
+                <k:KinectTileButton Height="Auto" Margin="518,59,379,582" Width="Auto" >
+                    <k:KinectTileButton.Background>
+                        <ImageBrush ImageSource="Images/Learn/Alphabet/D.png"/>
+                    </k:KinectTileButton.Background>
+                </k:KinectTileButton>
+                <k:KinectTileButton Height="Auto" Margin="674,59,223,582" Width="Auto">
+                    <k:KinectTileButton.Background>
+                        <ImageBrush ImageSource="Images/Learn/Alphabet/E.png"/>
+                    </k:KinectTileButton.Background>
+                </k:KinectTileButton>
+                <k:KinectTileButton Height="Auto" Margin="825,59,72,582" Width="Auto">
+                    <k:KinectTileButton.Background>
+                        <ImageBrush ImageSource="Images/Learn/Alphabet/F.png"/>
+                    </k:KinectTileButton.Background>
+                </k:KinectTileButton>
+                <k:KinectTileButton Height="Auto" Margin="76,169,822,473" Width="Auto" >
+                    <k:KinectTileButton.Background>
+                        <ImageBrush ImageSource="Images/Learn/Alphabet/G.png"/>
+                    </k:KinectTileButton.Background>
+                </k:KinectTileButton>
+                <k:KinectTileButton Height="Auto" Margin="219,169,678,473" Width="Auto" >
+                    <k:KinectTileButton.Background>
+                        <ImageBrush ImageSource="Images/Learn/Alphabet/H.png"/>
+                    </k:KinectTileButton.Background>
+                </k:KinectTileButton>
+                <k:KinectTileButton Height="Auto" Margin="364,169,532,473" Width="Auto">
+                    <k:KinectTileButton.Background>
+                        <ImageBrush ImageSource="Images/Learn/Alphabet/I.png"/>
+                    </k:KinectTileButton.Background>
+                </k:KinectTileButton>
+                <k:KinectTileButton Height="Auto" Margin="518,169,379,473" Width="Auto" >
+                    <k:KinectTileButton.Background>
+                        <ImageBrush ImageSource="Images/Learn/Alphabet/J.png"/>
+                    </k:KinectTileButton.Background>
+                </k:KinectTileButton>
+                <k:KinectTileButton Height="Auto" Margin="674,169,223,473" Width="Auto">
+                    <k:KinectTileButton.Background>
+                        <ImageBrush ImageSource="Images/Learn/Alphabet/K.png"/>
+                    </k:KinectTileButton.Background>
+                </k:KinectTileButton>
+                <k:KinectTileButton Height="Auto" Margin="825,169,72,473" Width="Auto">
+                    <k:KinectTileButton.Background>
+                        <ImageBrush ImageSource="Images/Learn/Alphabet/L.png"/>
+                    </k:KinectTileButton.Background>
+                </k:KinectTileButton>
+                <k:KinectTileButton Height="Auto" Margin="76,286,822,355" Width="Auto" >
+                    <k:KinectTileButton.Background>
+                        <ImageBrush ImageSource="Images/Learn/Alphabet/M.png"/>
+                    </k:KinectTileButton.Background>
+                </k:KinectTileButton>
+                <k:KinectTileButton Height="Auto" Margin="219,286,678,355" Width="Auto" >
+                    <k:KinectTileButton.Background>
+                        <ImageBrush ImageSource="Images/Learn/Alphabet/N.png"/>
+                    </k:KinectTileButton.Background>
+                </k:KinectTileButton>
+                <k:KinectTileButton Height="Auto" Margin="364,286,532,355" Width="Auto">
+                    <k:KinectTileButton.Background>
+                        <ImageBrush ImageSource="Images/Learn/Alphabet/O.png"/>
+                    </k:KinectTileButton.Background>
+                </k:KinectTileButton>
+                <k:KinectTileButton Height="Auto" Margin="518,286,379,355" Width="Auto" >
+                    <k:KinectTileButton.Background>
+                        <ImageBrush ImageSource="Images/Learn/Alphabet/P.png"/>
+                    </k:KinectTileButton.Background>
+                </k:KinectTileButton>
+                <k:KinectTileButton Height="Auto" Margin="674,286,223,355" Width="Auto">
+                    <k:KinectTileButton.Background>
+                        <ImageBrush ImageSource="Images/Learn/Alphabet/Q.png"/>
+                    </k:KinectTileButton.Background>
+                </k:KinectTileButton>
+                <k:KinectTileButton Height="Auto" Margin="825,286,72,355" Width="Auto">
+                    <k:KinectTileButton.Background>
+                        <ImageBrush ImageSource="Images/Learn/Alphabet/R.png"/>
+                    </k:KinectTileButton.Background>
+                </k:KinectTileButton>
+                <k:KinectTileButton Height="Auto" Margin="76,405,822,236" Width="Auto" >
+                    <k:KinectTileButton.Background>
+                        <ImageBrush ImageSource="Images/Learn/Alphabet/S.png"/>
+                    </k:KinectTileButton.Background>
+                </k:KinectTileButton>
+                <k:KinectTileButton Height="Auto" Margin="219,405,678,236" Width="Auto" >
+                    <k:KinectTileButton.Background>
+                        <ImageBrush ImageSource="Images/Learn/Alphabet/T.png"/>
+                    </k:KinectTileButton.Background>
+                </k:KinectTileButton>
+                <k:KinectTileButton Height="Auto" Margin="364,405,532,236" Width="Auto">
+                    <k:KinectTileButton.Background>
+                        <ImageBrush ImageSource="Images/Learn/Alphabet/U.png"/>
+                    </k:KinectTileButton.Background>
+                </k:KinectTileButton>
+                <k:KinectTileButton Height="Auto" Margin="518,405,379,236" Width="Auto" >
+                    <k:KinectTileButton.Background>
+                        <ImageBrush ImageSource="Images/Learn/Alphabet/V.png"/>
+                    </k:KinectTileButton.Background>
+                </k:KinectTileButton>
+                <k:KinectTileButton Height="Auto" Margin="674,405,223,236" Width="Auto">
+                    <k:KinectTileButton.Background>
+                        <ImageBrush ImageSource="Images/Learn/Alphabet/W.png"/>
+                    </k:KinectTileButton.Background>
+                </k:KinectTileButton>
+                <k:KinectTileButton Height="Auto" Margin="825,405,72,236" Width="Auto">
+                    <k:KinectTileButton.Background>
+                        <ImageBrush ImageSource="Images/Learn/Alphabet/X.png"/>
+                    </k:KinectTileButton.Background>
+                </k:KinectTileButton>
+                <k:KinectTileButton Height="Auto" Margin="364,525,532,116" Width="Auto">
+                    <k:KinectTileButton.Background>
+                        <ImageBrush ImageSource="Images/Learn/Alphabet/Y.png"/>
+                    </k:KinectTileButton.Background>
+                </k:KinectTileButton>
+                <k:KinectTileButton Height="Auto" Margin="518,525,379,116" Width="Auto" >
+                    <k:KinectTileButton.Background>
+                        <ImageBrush ImageSource="Images/Learn/Alphabet/Z.png"/>
+                    </k:KinectTileButton.Background>
+                </k:KinectTileButton>
+            </Grid>
+        </k:KinectRegion>
+
+
+    </Grid>
+</Window>

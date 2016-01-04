@@ -1,0 +1,26 @@
+﻿<Window x:Class="E_SiLK.AlphaA"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:k="http://schemas.microsoft.com/kinect/2013"
+        Title="AlphaA" Height="300" Width="600" WindowStartupLocation="CenterScreen" WindowStyle="None">
+    <Grid>
+
+        <!--Background-->
+        <Grid.Background>
+            <ImageBrush ImageSource="Images/Background/popbg.png"/>
+        </Grid.Background>
+
+        <k:KinectRegion Name="kinectRegion">
+
+            <k:KinectTileButton Height="Auto" Margin="487,209,10,10" Width="Auto" Click="KinectTileButton_Click">
+                <k:KinectTileButton.Background>
+                    <ImageBrush ImageSource="Images/Navigation/back.png"></ImageBrush>
+                </k:KinectTileButton.Background>
+            </k:KinectTileButton>
+        </k:KinectRegion>
+        <Image HorizontalAlignment="Left" Height="158" Margin="105,63,0,0" VerticalAlignment="Top" Width="190" Source="Images/Learn/SignAlpha/a.png"/>
+        <Image HorizontalAlignment="Left" Height="158" Margin="255,63,0,0" VerticalAlignment="Top" Width="190" Source="Images/Learn/Alphabet/a.png"/>
+
+
+    </Grid>
+</Window>
